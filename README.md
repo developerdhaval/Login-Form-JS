@@ -2,11 +2,11 @@
 Get beautiful design Login form for your website to increase your user experience. Codes are made from html, JavaScript and css.
 
 # Code Details
-Name: Login Form
-Creator: Code Design/Developer Dhaval
-Update Version: MAC_UI_2.0 - Applied 
-SupportUI: Daisy UI @4.11.1
-Update support: MAC_UI_3.0 - Upcoming
+Name: Login Form<br>
+Creator: Code Design/Developer Dhaval<br>
+Update Version: MAC_UI_2.0 - Applied <br>
+SupportUI: Daisy UI @4.11.1<br>
+Update support: MAC_UI_3.0 - Upcoming <br>
 
 # How to use?
 1. Add multiples user login with redirect to link.
@@ -17,8 +17,8 @@ Update support: MAC_UI_3.0 - Upcoming
 ![Screenshot_31-5-2024_95339_127 0 0 1](https://github.com/developerdhaval/Login-Form-JS/assets/119856276/77ff8502-9e8a-4b99-845c-8006c2451027)
 
 # Next Update 
-<b>Login form</b> now running in the MAC_UI2.0
-This project code will receive "MAC_UI_3.0" and that is last update of this code.
-
+<b>Login form</b> now running in the MAC_UI2.0<br>
+This project code will receive "MAC_UI_3.0" and that is last update of this code.<br>
+<br>
 Get Official News from MAC_UI - UIOS website:
 https://uiosindia.blogspot.com/p/mac-ui-update.html
